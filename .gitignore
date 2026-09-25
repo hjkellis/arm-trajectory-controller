@@ -1,5 +1,6 @@
-log/*
-install/*
-build/*
-.cache/*
+log
+install
+build
+.cache
+
 compile_commands.json

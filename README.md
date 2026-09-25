@@ -1,4 +1,4 @@
-# ROS2 Planning and Control Packages
+# ROS2 Arm Planning and Control Packages
 Trajectory planning and control packages for my modified version of the [tw2ka robotic arm](https://www.youtube.com/watch?v=wI4Jh-T0Tlo).
 
 ## Quickstart
@@ -13,7 +13,7 @@ source ./install/setup.bash
 Determine the serial port the arm is connected to.
 
 Launch the arm's control TUI.
-```
+```bash
 ros2 run arm_interface control_manager
 ```
 
